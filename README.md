@@ -1,3 +1,4 @@
 # task1
 
-git clone <repository-url>
+git branch <branch-name>
+git checkout <branch-name>
